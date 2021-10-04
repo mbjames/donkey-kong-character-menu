@@ -1,5 +1,5 @@
 # Donkey Kong Character Menu
-Donkey Kong character menu select application
+Donkey Kong character menu select application.
 # Run The Source Code
 #### Download Python
 https://www.python.org/downloads/
